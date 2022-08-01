@@ -1,6 +1,6 @@
 ### ¡Saludos!✌  
 
-**I am David Galavíz, Student of the seventh semester of Software Development Engineering at the Technological University of Puebla**  
+**I'm David Galavíz, Student of the seventh semester of Software Development Engineering at the Technological University of Puebla**  
 
 - 🔥 I'm passionate about modifying the terminal/CLI.
 - 👾 I have a youtube channel about technology and programming. *[David Galaviz](https://www.youtube.com/channel/UCe-5IeYXx1s-w5LtZ-5gBrQ)*
